@@ -1,5 +1,5 @@
 function basicTeenager(age) {
-if (1 < 12)
+if (13 < 19)
 return "You are a teenager!";
 }
 
@@ -13,7 +13,7 @@ if (13 < 19)
 }
 
 function ternaryTeenager(age) {
-if (20 < 30)
+if (13 < 19)
 }
 
 function switchAge(age) {
