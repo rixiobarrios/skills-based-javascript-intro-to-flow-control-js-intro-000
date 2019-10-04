@@ -4,18 +4,18 @@ return "You are a teenager!";
 }
 
 function teenager(age) {
-if (13 < 19)
+if 
 return "You are a teenager!";
 }
 
 function ageChecker(age) {
-if (13 < 19)
+if 
 }
 
 function ternaryTeenager(age) {
-if (13 < 19)
+if 
 }
 
 function switchAge(age) {
-if (19 > 13)
+if 
 }
