@@ -17,5 +17,5 @@ if (20 < 30)
 }
 
 function switchAge(age) {
-if
+if (19 > 13)
 }
